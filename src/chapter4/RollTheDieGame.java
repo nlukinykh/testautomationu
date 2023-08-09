@@ -3,7 +3,7 @@ package chapter4;
 import java.util.Random;
 import java.util.Scanner;
 
-public class rollTheDieGame {
+public class RollTheDieGame {
 
     public static void main(String[] args) {
         final int totalCells = 20;
